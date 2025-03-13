@@ -27,7 +27,11 @@ I'm open to collaborating on interesting projects. Feel free to reach out if you
 ### Contact
 
 [+254 111 954160
-](https://wa.link/akgc9l)                                                              ![wa link_akgc9l](https://github.com/user-attachments/assets/19a04812-7f24-418b-b423-5b324cd42fa1)
+](https://wa.link/akgc9l)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/19a04812-7f24-418b-b423-5b324cd42fa1" alt="WhatsApp Link" width="150">
+  <br>
+</p>
 
 ### Fun Fact
 

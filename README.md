@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about crafting
 
 ### Skills and Expertise
 
-*   **Languages:** C ,C++ ,JAVA , JavaScript
+*   **Languages:** C ,C++ ,Java , JavaScript
 *   **Frameworks/Libraries:** Spring Boot, React
 *   **Operating Systems:** Kali Linux
 *   **Other:** Basic knowledge of Cybersecurity principles ,Networking ,IT ,Arduino

@@ -4,17 +4,22 @@ Welcome to my GitHub profile! I'm a software developer passionate about crafting
 
 ### Skills and Expertise
 
-*   **Languages:** C ,C++ ,Java , JavaScript
-*   **Frameworks/Libraries:** Spring Boot, React ,Angular
-*   **Operating Systems:** Kali Linux
-*   **Other:** Basic knowledge of Cybersecurity principles ,Networking ,IT ,Arduino
+* **Languages:** C, C++, Java, JavaScript  
+* **Frameworks/Libraries:** Spring Boot, React, Angular  
+* **Operating Systems:** Kali Linux  
+* **Other:** Basic knowledge of Cybersecurity principles, Networking, IT, Arduino  
 
 ### Current Projects
 
 #### Online Selling System
 
-*   [OnlineSellingSystem](https://github.com/Amarsalim30/Projects)
-*   Currently working on integrating an Accounting module and creating a Point of Sale (POS) system to enhance its functionality.
+* [OnlineSellingSystem](https://github.com/Amarsalim30/Projects)  
+* Currently working on integrating an Accounting module and creating a Point of Sale (POS) system to enhance its functionality.
+
+### 🔗 Portfolio
+
+Check out my portfolio here:  
+🌐 [Amar Portfolio](https://amarsalim30.github.io/Amar-portfolio/Amar-portfolio.html)
 
 ### Interests
 
@@ -26,16 +31,16 @@ I'm open to collaborating on interesting projects. Feel free to reach out if you
 
 ### Contact
 
-[+254 111 954160
-](https://wa.link/akgc9l)
+[+254 111 954160](https://wa.link/akgc9l)
+
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/19a04812-7f24-418b-b423-5b324cd42fa1" alt="WhatsApp Link" width="150">
+  <img src="https://github.com/user-attachments/assets/19a04812-7f24-418b-b423-5b324cd42fa1" alt="WhatsApp Link" width="150">
   <br>
 </p>
 
 ### Fun Fact
 
-I know kali linux and a little of cybersecurity
+I know Kali Linux and a little of cybersecurity.
 
 ---
 

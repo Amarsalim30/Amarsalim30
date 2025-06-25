@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a software developer passionate about crafting
 #### 🏠 [Real Estate App (Spring Boot + Next.js)](https://github.com/Amarsalim30/real-estate-app-backend)
 Currently building an industry-grade real estate management system using Spring Boot for the backend and Next.js for the frontend. The app handles authentication, project/unit listings, dynamic forms, and maps integration.
 
-#### 🛒 Online Selling System
+#### 🛒 [Online Selling System](https://github.com/Amarsalim30/Projects) 
 
-* [OnlineSellingSystem](https://github.com/Amarsalim30/Projects)  
 * Working on integrating an Accounting module and creating a Point of Sale (POS) system to enhance its functionality.
+* Aims to streamline operations and make life easier for businesses managing inventory and sales.
 
 ### 🔗 Portfolio
 

@@ -5,16 +5,19 @@ Welcome to my GitHub profile! I'm a software developer passionate about crafting
 ### Skills and Expertise
 
 * **Languages:** C, C++, Java, JavaScript  
-* **Frameworks/Libraries:** Spring Boot, React, Angular  
+* **Frameworks/Libraries:** Spring Boot, React, Angular, Next.js  
 * **Operating Systems:** Kali Linux  
 * **Other:** Basic knowledge of Cybersecurity principles, Networking, IT, Arduino  
 
 ### Current Projects
 
-#### Online Selling System
+[#### 🏠 Real Estate App (Spring Boot + Next.js)](https://github.com/Amarsalim30/real-estate-app-backend)
+Currently building an industry-grade real estate management system using Spring Boot for the backend and Next.js for the frontend. The app handles authentication, project/unit listings, dynamic forms, and maps integration.
+
+#### 🛒 Online Selling System
 
 * [OnlineSellingSystem](https://github.com/Amarsalim30/Projects)  
-* Currently working on integrating an Accounting module and creating a Point of Sale (POS) system to enhance its functionality.
+* Working on integrating an Accounting module and creating a Point of Sale (POS) system to enhance its functionality.
 
 ### 🔗 Portfolio
 

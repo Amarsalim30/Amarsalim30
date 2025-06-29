@@ -39,7 +39,7 @@ An e-commerce backend system with POS, inventory, and accounting integration. Ai
 ---
 ### 🏅 Certifications
 
-[![Cisco IT Essentials](https://img.shields.io/badge/Cisco%20IT%20Essentials%20(2024)-Completed-brightgreen?logo=cisco&style=for-the-badge)](https://github.com/Amarsalim30/portfolio/blob/main/AmarSalim-IT%20Essentials%20Au-certificate.pdf)
+[![Cisco IT Essentials](https://img.shields.io/badge/Cisco%20IT%20Essentials%20(2024)-Completed-brightgreen?logo=cisco&style=for-the-badge)](https://github.com/Amarsalim30/Amar-portfolio/blob/main/portfolio/blob/main/AmarSalim-IT%20Essentials%20Au-certificate.pdf)
 
 ### 🤝 Let's Collaborate  
 I'm open to collaborating on innovative projects — especially those at the intersection of web development and cybersecurity. Feel free to reach out!

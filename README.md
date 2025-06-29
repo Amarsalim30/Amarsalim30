@@ -9,10 +9,12 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basic-green?style=for-the-badge)
@@ -40,7 +42,7 @@ An e-commerce backend system with POS, inventory, and accounting integration. Ai
 I'm open to collaborating on innovative projects — especially those at the intersection of web development and cybersecurity. Feel free to reach out!
 
 📞 [+254 111 954160 (WhatsApp)](https://wa.link/akgc9l)  
-📧 Email: *youremail@example.com*  
+📧 Email: *asabatheif@gmail.com*  
 🔗 GitHub: [@Amarsalim30](https://github.com/Amarsalim30)
 
 <p align="center">
@@ -52,7 +54,9 @@ I'm open to collaborating on innovative projects — especially those at the int
 ### 📈 GitHub Stats
 
 ![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarsalim30&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarsalim30&layout=compact&theme=tokyonight)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amarsalim30&theme=tokyonight)](https://git.io/streak-stats)
 
 ---

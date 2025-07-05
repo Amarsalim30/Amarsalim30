@@ -1,15 +1,6 @@
 # 👋 Welcome to My GitHub Universe
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=AMAR+SALIM" alt="Name" />
-  </h1>
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Problem+Solver;Code+Architect" alt="Titles" />
-  </h3>
-</div>
-
-<div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amar+Salim+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Journey!">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amar+Salim+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Journey!" alt="Typing Animation" />
   </a>

@@ -1,7 +1,12 @@
 # 👋 Welcome to My GitHub Universe
 
 <div align="center">
-  <img width="100%" src="https://github.com/Amarsalim30/Amarsalim30/Hacker.gif" alt="Amar Salim - Full Stack Developer" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=AMAR+SALIM" alt="Name" />
+  </h1>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Problem+Solver;Code+Architect" alt="Titles" />
+  </h3>
 </div>
 
 <div align="center">

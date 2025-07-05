@@ -126,8 +126,8 @@ const amar = {
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Cisco-IT_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+      <td align="center"><a href="https://github.com/Amarsalim30/Amar-portfolio/blob/main/portfolio/blob/main/AmarSalim-IT%20Essentials%20Au-certificate.pdf">
+        <img src="https://img.shields.io/badge/Cisco-IT_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
         <br>
         <em>Hardware & Software Fundamentals (2024)</em>
       </td>

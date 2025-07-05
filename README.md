@@ -1,11 +1,14 @@
 # 👋 Welcome to My GitHub Universe
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amar+Salim+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Journey!">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amar+Salim+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Journey!" alt="Typing Animation" />
+  <!-- Sleek Wave Background -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=250&section=header&animation=fadeIn" alt="Wave Header"/>
+  
+  <!-- Enhanced Typing Animation with More Text -->
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Amar+Salim+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Journey!;Let's+Create+Something+Extraordinary!;Code+%7C+Secure+%7C+Innovate+%F0%9F%94%A5">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Amar+Salim+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Welcome+to+My+Digital+Journey!;Let's+Create+Something+Extraordinary!;Code+%7C+Secure+%7C+Innovate+%F0%9F%94%A5" alt="Enhanced Typing Animation" />
   </a>
 </div>
-
 <br>
 
 <p align="center">

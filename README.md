@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Universe
 
 <div align="center">
-  <img width="100%" src="https://pplx-res.cloudinary.com/image/private/user_uploads/79284259/6ee186b7-8ff4-47d8-9587-d509806693f1/github-header-image.jpg" alt="Amar Salim - Full Stack Developer" />
+  <img width="100%" src="https://github.com/Amarsalim30/Amarsalim30/Hacker.gif" alt="Amar Salim - Full Stack Developer" />
 </div>
 
 <div align="center">

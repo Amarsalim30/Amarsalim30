@@ -221,8 +221,6 @@ Contributing: Open source projects, Developer community initiatives
   <img src="https://hits.donaldzou.dev/count.svg?url=https://github.com/Amarsalim30" alt="Visitor Count"/>
 </div>
 
-
-
 ---
 
 <div align="center">

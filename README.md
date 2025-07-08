@@ -218,8 +218,11 @@ Contributing: Open source projects, Developer community initiatives
 
 <div align="center">
   <h3>📈 Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/Amarsalim30/count.svg" alt="Visitor Count"/>
+  <a href="https://amarsalim.goatcounter.com" target="_blank">
+    <img src="https://amarsalim.goatcounter.com/count?p=/github-profile" alt="Visitor Count"/>
+  </a>
 </div>
+
 
 ---
 

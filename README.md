@@ -215,13 +215,11 @@ Contributing: Open source projects, Developer community initiatives
 - 📚 **Mentorship** in advanced security practices
 
 ---
-
 <div align="center">
   <h3>📈 Profile Views</h3>
-  <a href="https://myhits.vercel.app">
-    <img src="https://myhits.vercel.app/api/hit/https://github.com/Amarsalim30?color=green&label=visitors&size=large" alt="Visitor Count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Amarsalim30&style=for-the-badge&color=green" alt="Profile Views"/>
 </div>
+
 
 ---
 

@@ -218,10 +218,9 @@ Contributing: Open source projects, Developer community initiatives
 
 <div align="center">
   <h3>📈 Profile Views</h3>
-  <a href="https://amarsalim.goatcounter.com" target="_blank">
-    <img src="https://amarsalim.goatcounter.com/count?p=/github-profile" alt="Visitor Count"/>
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amarsalim30&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Count"/>
 </div>
+
 
 
 ---

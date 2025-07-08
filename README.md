@@ -218,7 +218,9 @@ Contributing: Open source projects, Developer community initiatives
 
 <div align="center">
   <h3>📈 Profile Views</h3>
-  <img src="https://hits.donaldzou.dev/count.svg?url=https://github.com/Amarsalim30" alt="Visitor Count"/>
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https://github.com/Amarsalim30?color=green&label=visitors&size=large" alt="Visitor Count"/>
+  </a>
 </div>
 
 ---

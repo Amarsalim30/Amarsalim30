@@ -30,6 +30,7 @@
 ```javascript
 const amar = {
     name: "Amar Salim",
+    student: "2nd year Undergraduate",
     role: "Full Stack Developer & Cybersecurity Enthusiast",
     location: "Mombasa, Kenya 🇰🇪",
     currentFocus: ["Spring Boot", "Next.js", "Cybersecurity", "IoT"],
@@ -217,7 +218,7 @@ Contributing: Open source projects, Developer community initiatives
 
 <div align="center">
   <h3>📈 Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/{Amarsalim30}/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/Amarsalim30/count.svg" alt="Visitor Count"/>
 </div>
 
 ---

@@ -150,9 +150,9 @@ const amar = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarsalim30&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarsalim30&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+//<div align="center">
+  //<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarsalim30&theme=tokyonight" alt="GitHub Streak"/>
+//</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarsalim30&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>

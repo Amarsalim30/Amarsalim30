@@ -6,7 +6,6 @@
     alt="Systems Engineer & Automation"
   />
 </p>
-
 <p align="center">
 <a href="https://github.com/Amarsalim30"><img src="https://img.shields.io/badge/GitHub-Amarsalim30-black?style=for-the-badge&logo=github"/></a>
 <a href="mailto:asabatheif@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>

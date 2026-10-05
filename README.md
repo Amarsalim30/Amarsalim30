@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Amar Salim
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,100:2563eb&amp;text=Systems%20Engineer%20%26%20Automation%20&amp;fontColor=ffffff&amp;fontSize=34"
-    alt="Systems Engineer & Automation"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Systems%20Engineer%20%7C%20Automation%20Developer&fontColor=ffffff&fontSize=34"/>
 </p>
 <p align="center">
 <a href="https://github.com/Amarsalim30"><img src="https://img.shields.io/badge/GitHub-Amarsalim30-black?style=for-the-badge&logo=github"/></a>

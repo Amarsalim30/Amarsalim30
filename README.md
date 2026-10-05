@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Amar Salim
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Systems%20Engineer%20&amp;%20Automation%20&fontColor=ffffff&fontSize=34"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,100:2563eb&amp;text=Systems%20Engineer%20%26%20Automation%20&amp;fontColor=ffffff&amp;fontSize=34"
+    alt="Systems Engineer & Automation"
+  />
 </p>
 
 <p align="center">
